@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-843466180.png");
+  background-image: url(./images/Lovepik_com-401720734-big-data.jpg);
 }
 
 h1 {
@@ -138,7 +138,7 @@ h1 {
 }
 
 .accordion ul li:nth-child(1) {
-  background-image: url("https://www.jasonmpittman.com/wp-content/uploads/2019/03/comp-sci.jpg");
+  background-image: url(./images/DCA_analysis.png);
 }
 
 .accordion ul li:nth-child(2) {
